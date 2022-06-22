@@ -19,4 +19,4 @@ Bayesian statistics; Computational statistics; Latent Gaussian Models; Markov Ch
 
 # R_files Folder
 
-All the source codes to reproduce the Poisson example simulations of the paper using INLA, JAGS and STAN are available within this folder. 
+All the source R codes to reproduce the Poisson example simulations under the Generalized Linear Mixed Model (GLMM) structure of the paper using INLA, JAGS and STAN softwares are available within this folder. 
