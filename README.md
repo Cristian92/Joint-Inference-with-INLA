@@ -1,4 +1,4 @@
-# R code for paper "Joint Posterior Inference for Latent Gaussian Models with R-INLA"
+# R codes for paper "Joint Posterior Inference for Latent Gaussian Models with R-INLA"
 
 Here we provide the R codes for reproducing the Hierarchical Poisson example of the paper with its plots using INLA and JAGS (the Binomial simulation
 relies on similar assumption but using a logit link function). An alternative implementation using STAN is also added on a separate file for MCMC comparison purposes. STAN outcomes exactly match with JAGS ones. 
@@ -16,3 +16,7 @@ Bayesian statistics; Computational statistics; Latent Gaussian Models; Markov Ch
 - Cristian Chiuchiolo
 - Janet van Niekerk
 - Haavard Rue
+
+# R_files Folder
+
+All the source codes to reproduce the Poisson example simulations of the paper using INLA, JAGS and STAN are available within this folder. 
